@@ -33,6 +33,9 @@ The goal of this project is to transform raw transactional data into a clean, in
 - Improved data visualization and storytelling with Excel
 - Better understanding of how to structure datasets for analysis
 
+## 📸 Preview
+
+![Dashboard Preview](Coffee_Sales_Dashboard_Preview.png)
 
 ## 🎓 Credits
 
